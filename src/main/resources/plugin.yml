@@ -1,0 +1,4 @@
+name: bakuhatu
+version: '${project.version}'
+main: site.gululi.bakuhatu.Bakuhatu
+api-version: 1.19

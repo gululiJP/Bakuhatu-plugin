@@ -1,0 +1,4 @@
+name: bakuhatu
+version: '1.0-SNAPSHOT'
+main: site.gululi.bakuhatu.Bakuhatu
+api-version: 1.19
