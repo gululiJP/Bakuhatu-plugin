@@ -15,7 +15,7 @@ public class Eventlistener implements Listener {
         Location l = p.getLocation();
         World w = p.getWorld();
         if(p.getInventory().getItemInMainHand().getType() == Material.STICK){
-            w.createExplosion(l,1,true,true);
+            w.createExplosion(l,10,true,true);
         }
 
         }
